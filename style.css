@@ -1,0 +1,29 @@
+    .navMenu  {
+    color: #5f0cbe;
+    font-size: x-large;
+      display: inline;
+
+  }
+  
+  .navMenu a:hover {
+    color: #ec0d0d;
+  }
+  a:hover {
+    color: #ec0d0d;
+  }
+  .navMenu {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+
+  button{
+    border-radius: 13px;
+    
+  }
+  button:hover{
+    box-shadow: 0 16px 20px 0 rgba(0,0,0,0.24),0 21px 54px 0 rgba(0,0,0,0.19);
+  }
+  body {
+    font-family: 'Roboto';font-size: 22px;
+}
